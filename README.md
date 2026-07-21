@@ -1,5 +1,7 @@
 # Omni-Perspective AI Health & Routing Engine
 
+[![smithery badge](https://smithery.ai/badge/hivanapps/omni-perspective-engine)](https://smithery.ai/servers/hivanapps/omni-perspective-engine)
+
 An x402-monetized Model Context Protocol (MCP) server running on Cloudflare Workers. It provides real-time multi-perspective system health monitoring, phase-transition predictions, and optimized M2M API routing consensus.
 
 ## Features
