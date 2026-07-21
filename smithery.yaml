@@ -1,0 +1,6 @@
+startCommand:
+  type: http
+  url: https://shrill-wind-8acb.hivanapps.workers.dev/mcp
+configSchema:
+  type: object
+  properties: {}
