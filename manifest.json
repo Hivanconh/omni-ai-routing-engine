@@ -1,0 +1,23 @@
+{
+  "mcpVersion": "1.0.0",
+  "name": "Omni-Perspective AI Health & Routing Engine",
+  "description": "Predictive phase-transition alerts, multi-perspective latency consensus, and auto-arbitrage routing for AI models.",
+  "transport": "http",
+  "endpoint": "https://shrill-wind-8acb.hivanapps.workers.dev/",
+  "pricing": {
+    "model": "dynamic-surge",
+    "base_amount": "100",
+    "currency": "SATS",
+    "network": "Lightning"
+  },
+  "auth": {
+    "type": "x402",
+    "instructions": "Pay dynamic SATS to admiredhut112@walletofsatoshi.com via Lightning Network and provide the payment preimage."
+  },
+  "capabilities": [
+    "pre-collision detection",
+    "auto-arbitrage routing",
+    "cryptographic freshness proof",
+    "m2m affiliate kickbacks"
+  ]
+}
