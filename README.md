@@ -50,3 +50,19 @@ Add the following snippet to your `claude_desktop_config.json`:
     }
   }
 }
+2. Cursor / Windsurf Integration
+Go to Settings -> MCP Servers -> Add New MCP Server:
+
+Type: SSE or HTTP
+
+URL: https://shrill-wind-8acb.hivanapps.workers.dev/mcp
+
+📄 Standard Endpoint Discovery
+MCP Endpoint: https://shrill-wind-8acb.hivanapps.workers.dev/mcp
+
+LLM Context: https://shrill-wind-8acb.hivanapps.workers.dev/llms.txt
+
+Council Orchestrator: https://shrill-wind-8acb.hivanapps.workers.dev/orchestrator/council
+
+📜 License
+MIT License
