@@ -50,6 +50,7 @@ Add the following snippet to your `claude_desktop_config.json`:
     }
   }
 }
+```
 2. Cursor / Windsurf Integration
 Go to Settings -> MCP Servers -> Add New MCP Server:
 
